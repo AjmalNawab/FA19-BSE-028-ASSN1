@@ -5,9 +5,14 @@
       <map>
         <entry key="..\:/Users/majma/FA19_BSE_028_ASS_1/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/majma/FA19_BSE_028_ASS_1/app/src/main/res/layout/fragment_action___right.xml" value="0.2359375" />
+        <entry key="..\:/Users/majma/FA19_BSE_028_ASS_1/app/src/main/res/layout/fragment_action__freg.xml" value="0.2" />
         <entry key="..\:/Users/majma/FA19_BSE_028_ASS_1/app/src/main/res/layout/fragment_action__left.xml" value="0.2" />
         <entry key="..\:/Users/majma/FA19_BSE_028_ASS_1/app/src/main/res/layout/fragment_add_record.xml" value="0.25" />
+        <entry key="..\:/Users/majma/FA19_BSE_028_ASS_1/app/src/main/res/layout/fragment_add_record_freg.xml" value="0.25" />
+        <entry key="..\:/Users/majma/FA19_BSE_028_ASS_1/app/src/main/res/layout/fragment_message_freg.xml" value="0.25" />
+        <entry key="..\:/Users/majma/FA19_BSE_028_ASS_1/app/src/main/res/layout/fragment_right__freg.xml" value="0.25" />
         <entry key="..\:/Users/majma/FA19_BSE_028_ASS_1/app/src/main/res/layout/fragment_search.xml" value="0.25" />
+        <entry key="..\:/Users/majma/FA19_BSE_028_ASS_1/app/src/main/res/layout/fragment_search_record_freg.xml" value="0.25" />
       </map>
     </option>
   </component>

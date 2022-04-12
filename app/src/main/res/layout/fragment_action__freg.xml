@@ -3,25 +3,26 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Action_Fragment_left">
-
-    <!-- TODO: Update blank fragment layout -->
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+    tools:context=".action_freg">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/add_record"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="Add Record"
+        android:textAllCaps="false"
+        android:layout_marginLeft="130dp"
+        />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/search_record"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:layout_marginLeft="300px"
+        android:layout_marginTop="150px"
+        android:text="Search Record"
+        android:textAllCaps="false" />
+
 
 </FrameLayout>
+

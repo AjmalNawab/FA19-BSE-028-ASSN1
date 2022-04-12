@@ -3,12 +3,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SearchRecordFragment">
+    tools:context=".message_freg">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
+        android:id="@+id/text"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:text="Please select an appropriate action"
+        android:textSize="30dp"
+        android:textColor="@color/black"
+        />
 
 </FrameLayout>
